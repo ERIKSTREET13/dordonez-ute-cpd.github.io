@@ -2268,6 +2268,10 @@
 		display: inline-block;
 		position: relative;
 	}
+	
+#imgcaract{
+	border: #000000
+}
 
 		.image img {
 			display: block;
